@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Must Start with 'suho~'",
       "required": true,
-      "value": ""
+      "value": "suho~s7VXiTRY#7ckd7rxPnmoB4k6A4DEl9v6O6WiGq9SMECjWer-XEd4"
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
@@ -20,7 +20,7 @@
     "MODE": {
       "description": "Set private/public/inbox/groups",
       "required": false,
-      "value": "public"
+      "value": "private"
      },
    
     "PREFIX": {
@@ -37,7 +37,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "27813374457"
+      "value": "255652398614"
     },
     
     "PRESENCE": {
